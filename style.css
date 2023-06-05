@@ -1,0 +1,190 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 body,\
+html\{\
+      margin: 0;\
+      padding: 0px;\
+      height: 100%;\
+      width: 100%;\
+      font-family: 'Josefin Sans', sans-serif;\
+      box-sizing: border-box;\
+\} \
+.img\{\
+  height: 20vh;\
+  width: 100%;\
+  background-image: url(https://drive.google.com/uc?id=1WbG24ijEAOB5J5LBkG4VakkBUI3bpNct);\
+  background-size: 60%;\
+  background-position: top left;\
+  background-repeat: no-repeat;\
+\}\
+\
+nav\{\
+  display: flex;\
+  align-items: center;\
+  justify-content: space-between;\
+  padding-top: 0px;\
+  padding-left: 20%;\
+  padding-right: 20%; \
+\}\
+\
+.name\{\
+  color: gray;\
+\}\
+nav ul li\{\
+    list-style: none;\
+    display: inline-block;\
+    padding: 0px 35px;\
+\}\
+nav ul li a\{\
+  color: white;\
+  text-decoration: none;\
+  font-weight: bold;\
+  text-transform: capitalize;\
+\}\
+nav ul li a:hover\{\
+  color: red\
+\}\
+.btn\{\
+  background-color: #0072b1;\
+  color: white;\
+  text-decoration: none;\
+  border:2px solid transparent;\
+  font-weight: bold;\
+  padding: 10px 25px;\
+  border-radius: 30px;\
+  transition: transform .4s;\
+\}\
+.btn:hover\{\
+  transform: scale(1.2);\
+\}\
+.click\{\
+  background-color: red;\
+  color: white;\
+    font-weight: bold;\
+  padding: 10px 25px;\
+  border-radius: 30px;\
+  transition: transform .4s;\
+\}\
+\}\
+.youtube\{\
+  transition: transform .4s;\
+  cursor: pointer;\
+\}\
+.youtube:hover\{\
+  transform: scale(1.2);\
+\}\
+.Linkedin\{\
+  transition: transform .4s;\
+  \
+\}\
+.Linkedin:hover\{\
+  transform: scale(1.2);\
+\}\
+body \{\
+margin: 10;\
+padding: 0;\
+font-family: Arial, sans-serif;\
+background-color: #FFFF;\
+\}\
+\
+header \{\
+background-color: #000000;\
+color: white;\
+text-align: center;\
+padding: 100px;\
+\}\
+\
+section \{\
+margin: 100px auto;\
+max-width: 600px;\
+padding: 0 100px;\
+color: #20262E;\
+\}\
+\
+h1 \{\
+font-size: 48px;\
+margin-bottom: 20px;\
+text-align: center;\
+font-weight: normal; \
+\}\
+\
+h2 \{\
+font-size: 36px;\
+margin-bottom: 10px;\
+text-decoration: underline;\
+ text-align: center;\
+font-weight: normal; \
+text-underline-offset: 5px;\
+text-decoration-thickness: 2px;\
+\}\
+h3\{\
+  font-size: 12px;\
+\}\
+p \{\
+font-size: 18px;\
+line-height: 1.5;\
+margin-bottom: 30px;\
+\}\
+.grid-container \{\
+  display: grid;\
+  grid-template-columns: 32% 32% 32%;\
+  grid-column-gap: 100px;\
+  grid-row-gap: 0px;\
+  padding: 0px;\
+\}\
+.item1\{\
+  transition: transform .4s;\
+\}\
+.item1:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.item2\{\
+  transition: transform .4s;\
+\}\
+.item2:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.item3\{\
+  transition: transform .4s;\
+\}\
+.item3:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.item4\{\
+  transition: transform .4s;\
+\}\
+.item4:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.item5\{\
+  transition: transform .4s;\
+\}\
+.item5:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.item6\{\
+  transition: transform .4s;\
+\}\
+.item6:Hover\{\
+  transform: scale(1.2);\
+  cursor: pointer;\
+\}\
+.grid-container > div \{\
+  background-color: rgba(255, 255, 255, 0.8);\
+  text-align: center;\
+  padding: 10px 0;\
+\}\
+.grid-img\{\
+  width: 100%;\
+  box-shadow: 5px 8px 5px #b6b4b4;\
+\}}
